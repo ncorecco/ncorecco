@@ -12,7 +12,7 @@
 
 ---
 ## About Me:
-I am 26 years old and graduated in Computer Science from ETH Zurich, majoring in Machine Intelligence and minoring in Theoretical Computer Science. I am a curious person who enjoys understanding how algorithms and models work. I value teamwork and believe that collaboration and sharing ideas lead to better solutions.
+Master graduated in Computer Science from ETH Zurich, majoring in Machine Intelligence and minoring in Theoretical Computer Science. I am a curious person who enjoys understanding how algorithms and models work. I value teamwork and believe that collaboration and sharing ideas lead to better solutions.
 
 
 ## Some projects I've worked on recently:
